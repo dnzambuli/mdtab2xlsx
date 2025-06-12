@@ -1,0 +1,14 @@
+Package: mdtab2xlsx
+Title: converts markdown text to .xlsx
+Version: 0.0.0.9000
+Authors@R: 
+    person("Danie", "Nzambuli", , "damunzandm@outlook.com", role = c("aut", "cre"))
+Description: Following an increasing need to read scanned documents, I saw it firt to write a script to help me convert markdown to excel. This is because most gpts scan documents and produce a markdown text. It was a repetitive task for me so I saw it fit to solve this personal problem.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
